@@ -1,6 +1,6 @@
-# whastapp
+# messenger app (whastapp clone)
 
-A new Flutter application.
+A weekend project, a messenger inspired by whatsapp.
 
 ## Getting Started
 
