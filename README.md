@@ -1,4 +1,4 @@
-# messenger app (whastapp clone)
+# Messenger app (inspired by whatsapp)
 
 A weekend project, a messenger inspired by whatsapp.
 
